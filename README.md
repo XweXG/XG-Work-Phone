@@ -24,7 +24,7 @@ Root、Fastboot、ADB、无线 ADB、iOS 备份与诊断、驱动安装、救砖
 
 | 雾白 | 雾黑 |
 |---|---|
-| ![雾白主界面](docs/screenshots/main-white.png) | ![雾黑主界面](docs/screenshots/main-black.png) |
+| ![v1.9.3 雾白主界面](docs/screenshots/main-white-1.9.3.png) | ![v1.9.3 雾黑主界面](docs/screenshots/main-black-1.9.3.png) |
 
 ---
 
