@@ -34,7 +34,7 @@ Root、Fastboot、ADB、iOS 备份与诊断、驱动安装、救砖、Windows / 
 |---|---:|---|---|
 | `XGWorkPhone-Setup-1.9.2.exe` | 95.8 MB | [下载](https://github.com/XweXG/XG-Work-Phone/releases/download/v1.9.2/XGWorkPhone-Setup-1.9.2.exe) | [压缩包](https://wwayi.lanzoum.com/iVIbV4hdbrkd)，提取码 `dptb` |
 | `XGWorkPhone-1.9.2-Windows-x64.zip` | 198.1 MB | [下载](https://github.com/XweXG/XG-Work-Phone/releases/download/v1.9.2/XGWorkPhone-1.9.2-Windows-x64.zip) | 超过免费单文件上限，请用安装包 |
-| `XGWorkPhone.exe` | 87.0 MB | [下载](https://github.com/XweXG/XG-Work-Phone/releases/download/v1.9.2/XGWorkPhone.exe) | 可从上方的安装包压缩包获取 |
+| `XGWorkPhone.exe` | 87.0 MB | [下载](https://github.com/XweXG/XG-Work-Phone/releases/download/v1.9.2/XGWorkPhone.exe) | — |
 | `XGWorkPhone-Setup-1.9.2.zip` | 90.9 MB | — | [下载](https://wwayi.lanzoum.com/iVIbV4hdbrkd)，提取码 `dptb` |
 
 > 蓝奏云的 `XGWorkPhone-Setup-1.9.2.zip` 内含安装包、`README-v1.9.2.md`、`SHA256-v1.9.2.txt`，解压后双击 `XGWorkPhone-Setup-1.9.2.exe` 安装。
