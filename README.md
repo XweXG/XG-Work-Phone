@@ -34,10 +34,10 @@ Root、Fastboot、ADB、无线 ADB、iOS 备份与诊断、驱动安装、救砖
 
 | 文件 | 大小 | GitHub Release | 蓝奏云 |
 |---|---:|---|---|
-| `XGWorkPhone-Setup-1.9.3.exe` | 95.8 MB | [下载](https://github.com/XweXG/XG-Work-Phone/releases/download/v1.9.3/XGWorkPhone-Setup-1.9.3.exe) | v1.9.3 上传后补充 |
+| `XGWorkPhone-Setup-1.9.3.exe` | 95.8 MB | [下载](https://github.com/XweXG/XG-Work-Phone/releases/download/v1.9.3/XGWorkPhone-Setup-1.9.3.exe) | [压缩包](https://wwayi.lanzoum.com/iwXTS4hdjd1i)，提取码 `85vz` |
 | `XGWorkPhone-1.9.3-Windows-x64.zip` | 198.1 MB | [下载](https://github.com/XweXG/XG-Work-Phone/releases/download/v1.9.3/XGWorkPhone-1.9.3-Windows-x64.zip) | 超过免费单文件上限，请用安装包 |
 | `XGWorkPhone.exe` | 87.0 MB | [下载](https://github.com/XweXG/XG-Work-Phone/releases/download/v1.9.3/XGWorkPhone.exe) | — |
-| `XGWorkPhone-Setup-1.9.3.zip` | 95.8 MB | — | v1.9.3 上传后补充 |
+| `XGWorkPhone-Setup-1.9.3.zip` | 95.8 MB | — | [下载](https://wwayi.lanzoum.com/iwXTS4hdjd1i)，提取码 `85vz` |
 
 > 蓝奏云的 `XGWorkPhone-Setup-1.9.3.zip` 内含安装包、`README-v1.9.3.md`、`SHA256-v1.9.3.txt`，解压后双击 `XGWorkPhone-Setup-1.9.3.exe` 安装。
 >
